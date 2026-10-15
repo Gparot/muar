@@ -1,0 +1,39 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*Zone.Identifier
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+*.slxc
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Compilación
+build/
+devel/
+install/
+log/
