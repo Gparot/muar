@@ -1,0 +1,9 @@
+# Ejecutables y objetos de compilación
+/laberinto
+*.exe
+*.o
+*.out
+
+
+# Configuración local de VS Code
+.vscode/
