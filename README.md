@@ -18,9 +18,5 @@ Material de las asignaturas del máster.
 ```
 XX-asignatura/
 ├── README.md      ← información de la asignatura
-├── apuntes/       ← apuntes y resúmenes propios
-├── diapositivas/  ← material del profesor
-├── practicas/     ← prácticas y código (01-nombre, 02-nombre, ...)
-├── trabajos/      ← trabajos y entregas (01-nombre, 02-nombre, ...)
-└── examenes/      ← exámenes anteriores y repaso
+└── trabajos/      ← trabajos y entregas
 ```
