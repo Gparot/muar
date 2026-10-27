@@ -1,0 +1,6 @@
+# Soluciones generadas por pyperplan
+*.soln
+
+# Material no publicable / borradores (se conservan en local)
+Planning_HandsOn_2026.pdf
+p1-find-use.pddl
