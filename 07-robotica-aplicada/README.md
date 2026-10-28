@@ -1,8 +1,8 @@
 # Robótica aplicada
 
-- **Profesor/a:**
-- **Semestre:**
-- **Nota:**
+- **Profesor/a:** Ernesto Gambao / Javier Badesa
+- **Semestre:** 1
+
 
 ## Descripción
 
