@@ -1,8 +1,8 @@
 # Control óptimo y adaptativo
 
-- **Profesor/a:**
-- **Semestre:**
-- **Nota:**
+- **Profesor/a:**Sergio Dominguez
+- **Semestre:**1
+
 
 ## Descripción
 
