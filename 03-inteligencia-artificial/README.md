@@ -1,8 +1,8 @@
 # Inteligencia artificial
 
-- **Profesor/a:**
-- **Semestre:**
-- **Nota:**
+- **Profesor/a:** Ricardo Sanz
+- **Semestre:** 1
+
 
 ## Descripción
 
