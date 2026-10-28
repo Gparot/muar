@@ -1,8 +1,8 @@
 # Matemáticas para automática y robótica
 
-- **Profesor/a:**
-- **Semestre:**
-- **Nota:**
+- **Profesor/a:** Sergio Dominguez
+- **Semestre:** 1
+
 
 ## Descripción
 
