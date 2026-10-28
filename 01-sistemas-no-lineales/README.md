@@ -1,8 +1,8 @@
 # Sistemas no lineales
 
-- **Profesor/a:**
-- **Semestre:**
-- **Nota:**
+- **Profesor/a:** Sergio Dominguez
+- **Semestre:** 1
+
 
 ## Descripción
 
