@@ -1,8 +1,8 @@
 # Visión por computador
 
-- **Profesor/a:**
-- **Semestre:**
-- **Nota:**
+- **Profesor/a:** Ramón A. Suárez Fernández
+- **Semestre:** 1
+
 
 ## Descripción
 
