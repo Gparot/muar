@@ -36,8 +36,10 @@ laberinto/
 │   ├── portada.png
 │   ├── maze_1/      BF.png · DF.png · BestFirst.png · Aestrella.png · IDDF.png
 │   └── ...
+├── resultados/      Salida del programa para cada laberinto (salida_N.txt)
 ├── *.cpp            Código fuente
-└── maze_*.txt       Los 12 laberintos de prueba
+├── maze_*.txt       Los 12 laberintos de prueba
+└── ejemplo_mio.txt  Laberinto de entrada de mainbf.cpp y maindf.cpp
 ```
 
 ## Compilación y ejecución
@@ -54,7 +56,7 @@ g++ -std=c++17 -O2 -o laberinto laberinto.cpp
 Al ejecutarlo aparece un menú para elegir uno de los 12 laberintos. Para guardar la salida en un archivo sin pasar por el menú:
 
 ```bash
-echo N | ./laberinto > salida_N.txt     # N = número del laberinto en el menú
+echo N | ./laberinto > resultados/salida_N.txt     # N = número del laberinto en el menú
 ```
 
 ### Formato de los laberintos
