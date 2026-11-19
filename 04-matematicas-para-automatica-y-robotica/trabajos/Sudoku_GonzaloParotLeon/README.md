@@ -19,7 +19,7 @@ Se resuelve el mismo Sudoku de dos formas y se comparan los tiempos en la misma 
 
 ## Idea del modelo de grafo
 
-- **Vértices:** cada tripleta `(r, c, v)` significa "la casilla (r, c) tiene el valor v". Hay 9 · 9 · 9 = 729.
+- **Vértices:** cada valor de `(r, c, v)` significa "la casilla (r, c) tiene el valor v". Hay 9 · 9 · 9 = 729.
 - **Aristas:** unen vértices compatibles. No hay arista si están en la misma casilla o si repiten valor en la misma fila, columna o bloque.
 - **Solución:** un clique de 81 vértices es un Sudoku resuelto, con un vértice por casilla y sin valores repetidos.
 
