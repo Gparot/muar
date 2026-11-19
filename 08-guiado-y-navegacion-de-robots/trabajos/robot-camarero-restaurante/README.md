@@ -146,7 +146,6 @@ Los scripts de `experimentos/` generan las tablas y figuras de la memoria.
 ## Resultados
 
 <!-- TODO: resultados numéricos de la memoria (calibración, EKF, planificadores, reactivo, demostrador) -->
-TODO
 
 ---
 
