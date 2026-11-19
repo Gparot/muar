@@ -6,7 +6,7 @@
 
 ## Descripción
 
-
+Diseño de células robotizadas con RoboDK, tecnologías de robots en la industria y nuevas tendencias en robótica.
 
 ## Contenido
 

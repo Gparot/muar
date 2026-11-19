@@ -6,7 +6,7 @@
 
 ## Descripción
 
-
+Machine learning, planificación automática en PDDL, algoritmos de análisis de datos y lógica proposicional.
 
 ## Contenido
 

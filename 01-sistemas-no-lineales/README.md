@@ -6,7 +6,7 @@
 
 ## Descripción
 
-
+Análisis y control de sistemas no lineales: estabilidad y control por Lyapunov y funciones descriptivas.
 
 ## Contenido
 

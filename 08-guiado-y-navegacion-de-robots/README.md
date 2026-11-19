@@ -6,7 +6,7 @@
 
 ## Descripción
 
-
+Localización y navegación de robots móviles: sensores, GPS, fusión sensorial, EKF y SLAM.
 
 ## Contenido
 

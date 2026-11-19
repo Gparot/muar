@@ -6,7 +6,7 @@
 
 ## Descripción
 
-
+Tratamiento de imágenes en MATLAB: convoluciones y matching de imágenes, entre otras técnicas.
 
 ## Contenido
 

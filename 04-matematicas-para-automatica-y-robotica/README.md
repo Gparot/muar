@@ -6,7 +6,7 @@
 
 ## Descripción
 
-
+Teoría de grafos, optimización de algoritmos y cálculo de variaciones.
 
 ## Contenido
 
