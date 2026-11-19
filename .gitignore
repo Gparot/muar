@@ -38,3 +38,4 @@ devel/
 install/
 log/
 build/
+*Zone.Identifier
